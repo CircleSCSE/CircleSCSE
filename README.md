@@ -53,7 +53,7 @@
 
 | Project | Tech Stack | Status | Documentation & Demo |
 | :--- | :---: | :---: | :--- |
-| **🐷 Pig-Tax** | `Next.js` `Lemon Squeezy` | <img src="https://img.shields.io/badge/LIVE-FF00FF?style=flat-square&logoColor=white"> | [**[Market Experiment]**](https://pig-fix.com) <br> 목표 달성에 보증금 ( Tax )과 철학을 결합한 수익화 시도 |
+| **🐷 Pig-Tax** | `Next.js` `Lemon Squeezy` | <img src="https://img.shields.io/badge/LIVE-FF00FF?style=flat-square&logoColor=white"> | [**[Market Experiment]**](https://pig-tax.com) <br> 목표 달성에 보증금 ( Tax )과 철학을 결합한 수익화 시도 |
 | **🎵 HumanBGM** | `Next.js` `Vercel` | <img src="https://img.shields.io/badge/BETA-00FFFF?style=flat-square&logoColor=black"> | [**[Notion]**](https://winter-seashore-2ef.notion.site/HumanBGM-2a6526eb9c278093ae9be18b659c48dd) / [**[Live Demo]**](https://human-bgm-mvp-qn3m.vercel.app/) <br> N:N 크리에이터 - 작곡가 연결 플랫폼 시도 |
 
 </div>
