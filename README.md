@@ -14,8 +14,7 @@
 | **Design/Creative** | FL Studio, YouTube, X |
 
 ### 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=CircleSCSE&show_icons=true&theme=tokyonight)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=CircleSCSE&show_icons=true&theme=tokyonight&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CircleSCSE&layout=compact&theme=tokyonight)
-
 ---
 **"I don't just build software; I create ripples in the market."**
