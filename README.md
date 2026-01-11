@@ -5,8 +5,6 @@
 <h1 align="center">👋 Welcome to <span style="color: #FF00FF;">CircleSCSE</span>'s Neon World</h1>
 <p align="center">🌆 <b>Experimentalist</b> decoding the Code & Music 🌆</p>
 
-[![GitHub-Contribution-Graph](https://github-readme-stats.vercel.app/api?username=본인ID&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 <div align="center">
   <a href="https://x.com/GlobalHouse_CS"><img src="https://img.shields.io/badge/X-00FFFF?style=for-the-badge&logo=x&logoColor=black"></a>
   <a href="https://brunch.co.kr/@gmgimn03451"><img src="https://img.shields.io/badge/Brunch-8A2BE2?style=for-the-badge&logo=brunch&logoColor=white"></a>
@@ -14,6 +12,8 @@
 </div>
 
 <br/>
+
+[![GitHub-Contribution-Graph](https://github-readme-stats.vercel.app/api?username=CircleSCSE&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
