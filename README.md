@@ -38,8 +38,8 @@
   
   <br/><br/>
   
-  <img src="https://github-readme-stats.vercel.app/api?username=CircleSCSE&show_icons=true&theme=synthwave&count_private=true" height="185px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CircleSCSE&layout=compact&theme=synthwave" height="185px"/>
+  <img src="https://github-readme-stats-one-eight.vercel.app/api?username=CircleSCSE&show_icons=true&theme=synthwave&count_private=true" height="185px"/>
+  <img src="https://github-readme-stats-one-eight.vercel.app/api/top-langs/?username=CircleSCSE&layout=compact&theme=synthwave" height="185px"/>
 </div>
 
 <br/>
