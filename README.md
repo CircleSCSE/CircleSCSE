@@ -45,7 +45,7 @@
 <br/>
 
 <div align="center">
-  <a href="https://solved.ac/CircleSCSE">
+  <a href="[https://solved.ac/CircleSCSE](https://www.acmicpc.net/user/circlescse)">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=CircleSCSE" height="200px">
   </a>
 </div>
