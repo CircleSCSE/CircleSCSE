@@ -13,13 +13,10 @@
 
 <br/>
 
-[![GitHub-Contribution-Graph](https://github-readme-stats.vercel.app/api?username=CircleSCSE&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-### 💾 Cyber Deck (Tech Stack)
-
+<details>
+<summary><b>💾 [SYSTEM] Cyber Deck (View Tech Stack)</b></summary>
 <div align="center">
+<br/>
 
 | Category | Tech / Tools |
 | :---: | :--- |
@@ -30,35 +27,29 @@
 | **🎹 Creative** | `FL Studio` `YouTube` |
 
 </div>
+</details>
 
----
-
-### 📊 Holographic Data (Stats)
-
+<details>
+<summary><b>📊 [DATA] Holographic Data (View All Stats)</b></summary>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CircleSCSE&theme=synthwave&hide_border=true" width="75%" />
-  
-  <br/><br/>
-  
-  <img src="https://github-readme-stats-one-eight.vercel.app/api?username=CircleSCSE&show_icons=true&theme=synthwave&count_private=true" height="185px"/>
-  <img src="https://github-readme-stats-one-eight.vercel.app/api/top-langs/?username=CircleSCSE&layout=compact&theme=synthwave" height="185px"/>
-</div>
-
 <br/>
 
-<div align="center">
-  <a href="[https://solved.ac/CircleSCSE](https://www.acmicpc.net/user/circlescse)">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=CircleSCSE" height="200px">
-  </a>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=CircleSCSE&theme=synthwave&hide_border=true" width="75%" />
+<br/><br/>
+<img src="https://github-readme-stats-one-eight.vercel.app/api?username=CircleSCSE&show_icons=true&theme=synthwave&count_private=true" height="185px"/>
+<img src="https://github-readme-stats-one-eight.vercel.app/api/top-langs/?username=CircleSCSE&layout=compact&theme=synthwave" height="185px"/>
+<br/><br/>
+<a href="https://solved.ac/CircleSCSE">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=CircleSCSE" height="200px">
+</a>
+
 </div>
+</details>
 
-<br/>
-
----
-
-### 🛸 Cycle: Active Experiments
-
+<details>
+<summary><b>🛸 [FILES] Active Experiments (View Projects & Links)</b></summary>
 <div align="center">
+<br/>
 
 | Project | Tech Stack | Status | Documentation & Demo |
 | :--- | :---: | :---: | :--- |
@@ -66,5 +57,6 @@
 | **🎵 HumanBGM** | `Next.js` `Vercel` | <img src="https://img.shields.io/badge/BETA-00FFFF?style=flat-square&logoColor=black"> | [**[Notion]**](https://winter-seashore-2ef.notion.site/HumanBGM-2a6526eb9c278093ae9be18b659c48dd) / [**[Live Demo]**](https://human-bgm-mvp-qn3m.vercel.app/) <br> N:N 크리에이터 - 작곡가 연결 플랫폼 시도 |
 
 </div>
+</details>
 
 ---
