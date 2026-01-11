@@ -34,7 +34,7 @@
 ### 📊 Holographic Data (Stats)
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CircleSCSE&theme=synthwave&hide_border=true" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CircleSCSE&theme=synthwave&hide_border=true" width="75%" />
   
   <br/><br/>
   
@@ -46,7 +46,7 @@
 
 <div align="center">
   <a href="https://solved.ac/CircleSCSE">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=CircleSCSE" height="120px">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=CircleSCSE" height="200px">
   </a>
 </div>
 
