@@ -34,7 +34,7 @@
 <div align="center">
 <br/>
 
-<a href="https://solved.ac/CircleSCSE">
+<a href="https://solved.ac/circlescse">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=circlescse" height="200px">
 </a>
 
