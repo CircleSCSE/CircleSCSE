@@ -34,13 +34,8 @@
 <div align="center">
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=CircleSCSE&theme=synthwave&hide_border=true" width="75%" />
-<br/><br/>
-<img src="https://github-readme-stats-one-eight.vercel.app/api?username=CircleSCSE&show_icons=true&theme=synthwave&count_private=true" height="185px"/>
-<img src="https://github-readme-stats-one-eight.vercel.app/api/top-langs/?username=CircleSCSE&layout=compact&theme=synthwave" height="185px"/>
-<br/><br/>
 <a href="https://solved.ac/CircleSCSE">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=CircleSCSE" height="200px">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=circlescse" height="200px">
 </a>
 
 </div>
