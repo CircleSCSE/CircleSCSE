@@ -42,7 +42,7 @@
 </details>
 
 <details>
-<summary><b>🛸 [FILES] Active Experiments (View Projects & Links)</b></summary>
+<summary><b>🛸 [FILES] Experiment Cycles (View Projects & Links)</b></summary>
 <div align="center">
 <br/>
 
@@ -54,6 +54,19 @@
 N:N 크리에이터 - 작곡가 연결 플랫폼 시도 | `Next.jsVercel` | <img src="https://img.shields.io/badge/BETA-00FFFF?style=flat-square&logoColor=black"> | [**[Notion]**](https://www.notion.so/HumanBGM-2a6526eb9c278093ae9be18b659c48dd?pvs=21) / [**[Live Demo]**](https://human-bgm-mvp-qn3m.vercel.app/) |
 | **🧵 Thread Marketing** **( 2025.12.10 ~ )**
 n8n을 활용한 콘텐츠 마케팅 및 스레드 자동화 워크플로우 구축 | `n8nAutomation` | <img src="https://img.shields.io/badge/LIVE-FF00FF?style=flat-square&logoColor=white"> | [**[Github]**](https://github.com/CircleSCSE/thread_marketing_automation_with_n8n) |
+
+</div>
+</details>
+
+<details>
+<summary><b>🛸 [FILES] Activities (Links)</b></summary>
+<div align="center">
+<br/>
+
+| **Activity** | **Tech Stack** | **Status** | **Documentation & Demo** |
+| --- | --- | --- | --- |
+| **🚀 Upstage Hackathon**
+Upstage 모델을 활용한 AI Calling Agent 개발 프로젝트 | `Upstage API AI Agent` | <img src="[https://img.shields.io/badge/COMPLETED-228B22?style=flat-square&logoColor=white](https://www.google.com/search?q=https://img.shields.io/badge/COMPLETED-228B22%3Fstyle%3Dflat-square%26logoColor%3Dwhite)"> | [**[Github]**](https://github.com/CircleSCSE/upstage_hackerthon_ai_calling_agent) |
 
 </div>
 </details>
