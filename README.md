@@ -46,10 +46,14 @@
 <div align="center">
 <br/>
 
-| Project | Tech Stack | Status | Documentation & Demo |
-| :--- | :---: | :---: | :--- |
-| **🐷 Pig-Tax** | `Next.js` `Lemon Squeezy` | <img src="https://img.shields.io/badge/LIVE-FF00FF?style=flat-square&logoColor=white"> | [**[Market Experiment]**](https://pig-tax.com) <br> 목표 달성에 보증금 ( Tax )과 철학을 결합한 수익화 시도 |
-| **🎵 HumanBGM** | `Next.js` `Vercel` | <img src="https://img.shields.io/badge/BETA-00FFFF?style=flat-square&logoColor=black"> | [**[Notion]**](https://winter-seashore-2ef.notion.site/HumanBGM-2a6526eb9c278093ae9be18b659c48dd) / [**[Live Demo]**](https://human-bgm-mvp-qn3m.vercel.app/) <br> N:N 크리에이터 - 작곡가 연결 플랫폼 시도 |
+| **Project** | **Tech Stack** | **Status** | **Documentation & Demo** |
+| --- | --- | --- | --- |
+| **🐷 Pig-Tax** | `Next.jsLemon Squeezy` | <img src="https://img.shields.io/badge/LIVE-FF00FF?style=flat-square&logoColor=white"> | [**[Market Experiment]**](https://pig-tax.com/) / [**[Build Log]**](https://github.com/CircleSCSE/E_Cycle.-1-pig-tax-Build-Log/tree/main)
+목표 달성에 보증금(Tax)과 철학을 결합한 수익화 시도 |
+| **🎵 HumanBGM** | `Next.jsVercel` | <img src="https://img.shields.io/badge/BETA-00FFFF?style=flat-square&logoColor=black"> | [**[Notion]**](https://www.notion.so/HumanBGM-2a6526eb9c278093ae9be18b659c48dd?pvs=21) / [**[Live Demo]**](https://human-bgm-mvp-qn3m.vercel.app/)
+N:N 크리에이터 - 작곡가 연결 플랫폼 시도 |
+| **🧵 Thread Marketing** | `n8nAutomation` | <img src="[https://img.shields.io/badge/DEV-7F3FBF?style=flat-square&logoColor=white](https://www.google.com/search?q=https://img.shields.io/badge/DEV-7F3FBF%3Fstyle%3Dflat-square%26logoColor%3Dwhite)"> | [**[Github]**](https://github.com/CircleSCSE/thread_marketing_automation_with_n8n)
+n8n을 활용한 콘텐츠 마케팅 및 스레드 자동화 워크플로우 구축 |
 
 </div>
 </details>
