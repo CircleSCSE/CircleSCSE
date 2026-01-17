@@ -59,7 +59,7 @@ n8n을 활용한 콘텐츠 마케팅 및 스레드 자동화 워크플로우 구
 </details>
 
 <details>
-<summary><b>🛸 [FILES] Activities (Links)</b></summary>
+<summary><b>🏆 [TABLE] Activities (Links)</b></summary>
 <div align="center">
 <br/>
 
