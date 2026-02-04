@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=10,ff00ff,00ffff&height=220&section=header&text=CircleSCSE&fontSize=85&animation=fadeIn&fontAlignY=40" width="100%" />
-</div>
-
 <h1 align="center">👋 Welcome to <span style="color: #FF00FF;">CircleSCSE</span>'s Neon World</h1>
 <p align="center">🌆 <b>Experimentalist</b> decoding the Code & Music 🌆</p>
 
