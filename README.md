@@ -3,7 +3,6 @@
 
 <div align="center">
   <a href="https://x.com/GlobalHouse_CS"><img src="https://img.shields.io/badge/X-00FFFF?style=for-the-badge&logo=x&logoColor=black"></a>
-  <a href="https://brunch.co.kr/@gmgimn03451"><img src="https://img.shields.io/badge/Brunch-8A2BE2?style=for-the-badge&logo=brunch&logoColor=white"></a>
   <a href="https://www.youtube.com/@circle.s448"><img src="https://img.shields.io/badge/YouTube-FF1493?style=for-the-badge&logo=youtube&logoColor=white"></a>
 </div>
 
