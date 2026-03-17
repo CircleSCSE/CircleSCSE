@@ -59,7 +59,7 @@ n8n을 활용한 콘텐츠 마케팅 및 스레드 자동화 워크플로우 구
 <br/>
 
 | **Activity** | **Tech Stack** | **Documentation & Demo** |
-| --- | --- | --- | --- |
+| --- | --- | --- |
 | **🚀 Upstage Hackathon**
 Upstage 모델을 활용한 AI Calling Agent 개발 프로젝트 | `Upstage API AI Agent` | [**[Github]**](https://github.com/CircleSCSE/upstage_hackerthon_ai_calling_agent) |
 
