@@ -1,4 +1,4 @@
-<h1 align="center">👋 Welcome to <span style="color: #FF00FF;">CircleSCSE</span>'s Neon World</h1>
+<h1 align="center">👋 Welcome to <span style="color: #FF00FF;">CircleSCSE</span>'s World</h1>
 <p align="center">🌆 <b>Experimentalist</b> decoding the Code & Music 🌆</p>
 
 <div align="center">
@@ -9,7 +9,7 @@
 <br/>
 
 <details>
-<summary><b>💾 [SYSTEM] Cyber Deck (View Tech Stack)</b></summary>
+<summary><b>💾 Deck (View Tech Stack)</b></summary>
 <div align="center">
 <br/>
 
@@ -25,7 +25,7 @@
 </details>
 
 <details>
-<summary><b>📊 [DATA] Holographic Data (View All Stats)</b></summary>
+<summary><b>📊 Stats (View All Stats)</b></summary>
 <div align="center">
 <br/>
 
@@ -37,7 +37,7 @@
 </details>
 
 <details>
-<summary><b>🛸 [FILES] Experiment Cycles (View Projects & Links)</b></summary>
+<summary><b>🛸 Experiment Cycles (View Projects & Links)</b></summary>
 <div align="center">
 <br/>
 
@@ -54,16 +54,30 @@ n8n을 활용한 콘텐츠 마케팅 및 스레드 자동화 워크플로우 구
 </details>
 
 <details>
-<summary><b>🏆 [TABLE] Activities (Links)</b></summary>
+<summary><b>🏆 Activities (Links)</b></summary>
 <div align="center">
 <br/>
 
-| **Activity** | **Tech Stack** | **Status** | **Documentation & Demo** |
+| **Activity** | **Tech Stack** | **Documentation & Demo** |
 | --- | --- | --- | --- |
 | **🚀 Upstage Hackathon**
-Upstage 모델을 활용한 AI Calling Agent 개발 프로젝트 | `Upstage API AI Agent` | <img src="[https://img.shields.io/badge/COMPLETED-228B22?style=flat-square&logoColor=white](https://www.google.com/search?q=https://img.shields.io/badge/COMPLETED-228B22%3Fstyle%3Dflat-square%26logoColor%3Dwhite)"> | [**[Github]**](https://github.com/CircleSCSE/upstage_hackerthon_ai_calling_agent) |
+Upstage 모델을 활용한 AI Calling Agent 개발 프로젝트 | `Upstage API AI Agent` | [**[Github]**](https://github.com/CircleSCSE/upstage_hackerthon_ai_calling_agent) |
 
 </div>
 </details>
+
+<details>
+<summary><b>📝 Taking Notes (Links)</b></summary>
+<div align="center">
+<br/>
+
+| **Activity** | **Program** | **Documentation** |
+| --- | --- | --- |
+| **Ⓖ Google Cloud Seminar** 구글 현직자들과의 생생한 세미나, 커피챗 질답 필기 | `Seminar` | [**[Github]**](https://github.com/CircleSCSE/2026_03_17_google_cloud_seminar) |
+
+</div>
+</details>
+
+
 
 ---
