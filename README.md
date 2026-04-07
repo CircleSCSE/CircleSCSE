@@ -6,35 +6,6 @@
   <a href="https://www.youtube.com/@circle.s448"><img src="https://img.shields.io/badge/YouTube-FF1493?style=for-the-badge&logo=youtube&logoColor=white"></a>
 </div>
 
-<br/>
-
-<details>
-<summary><b>💾 Deck (View Tech Stack)</b></summary>
-<div align="center">
-<br/>
-
-| Category | Tech / Tools |
-| :---: | :--- |
-| **⚡ Frontend** | `Next.js` `Framer Motion` |
-| **💽 Backend** | `Supabase` `Vercel` |
-| **🤖 Automation** | `n8n` `Python` |
-| **🕹️ Core** | `C++` `Algorithms` |
-| **🎹 Creative** | `FL Studio` `YouTube` |
-
-</div>
-</details>
-
-<details>
-<summary><b>📊 Stats (View All Stats)</b></summary>
-<div align="center">
-<br/>
-
-<a href="https://solved.ac/circlescse">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=circlescse" height="200px">
-</a>
-
-</div>
-</details>
 
 <details>
 <summary><b>🛸 Experiment Cycles (View Projects & Links)</b></summary>
