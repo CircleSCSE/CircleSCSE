@@ -45,6 +45,7 @@ Upstage 모델을 활용한 AI Calling Agent 개발 프로젝트 | `Upstage API 
 | **Activity** | **Program** | **Documentation** |
 | --- | --- | --- |
 | **Ⓖ Google Cloud Seminar** 구글 현직자들과의 생생한 세미나, 커피챗 질답 필기 | `Seminar` | [**[Github]**](https://github.com/CircleSCSE/2026_03_17_google_cloud_seminar) |
+| **Adventure Design** 아두이노 팀프로젝트 기록 | `Team Project` | [**[Github]**](https://github.com/CircleSCSE/adventure_design_2025) |
 
 </div>
 </details>
