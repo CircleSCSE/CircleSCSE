@@ -30,10 +30,12 @@ n8n을 활용한 콘텐츠 마케팅 및 스레드 자동화 워크플로우 구
 <div align="center">
 <br/>
 
-| **Activity** | **Tech Stack** | **Documentation & Demo** |
+| **Activity** | **Result** | **Documentation & Demo** |
 | --- | --- | --- |
 | **🚀 Upstage Hackathon**
-Upstage 모델을 활용한 AI Calling Agent 개발 프로젝트 | `Upstage API AI Agent` | [**[Github]**](https://github.com/CircleSCSE/upstage_hackerthon_ai_calling_agent) |
+Upstage 모델을 활용한 AI Calling Agent 개발 프로젝트 | Selected | [**[Github]**](https://github.com/CircleSCSE/upstage_hackerthon_ai_calling_agent) |
+| **💵 PNU_AI_SW_essay_contest**
+AI/SW 진로 관련 에세이 대회 | Excellence Award / 100,000₩ | [**[Github]**](https://github.com/CircleSCSE/PNU_AI_SW_essay_contest) |
 
 </div>
 </details>
