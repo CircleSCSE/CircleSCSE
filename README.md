@@ -53,6 +53,17 @@ AI/SW 진로 관련 에세이 대회 | **'Excellence Award / 100,000₩'** | [**
 </div>
 </details>
 
+<details>
+<summary><b>✍🏻 My Essay (Links)</b></summary>
+<div align="center">
+<br/>
 
+| **Topic** | **Property** | **Documentation** |
+| --- | --- | --- |
+| **"나의 실패들에 대해서"** 실패를 교훈으로, 교훈을 블록으로, 블록으로 성과를 | `Making Block` | [**[Github]**](https://github.com/CircleSCSE/my_failure_to_blocks) |
+
+
+</div>
+</details>
 
 ---
