@@ -1,5 +1,5 @@
 <h1 align="center">👋 Welcome to <span style="color: #FF00FF;">CircleSCSE</span>'s World</h1>
-<p align="center">🌆 <b>Experimentalist</b> decoding the Code & Music 🌆</p>
+<p align="center"🧱 <b>Experimentalist</b> Monitor, Act, Record, Build 🧱</p>
 
 <div align="center">
   <a href="https://x.com/GlobalHouse_CS"><img src="https://img.shields.io/badge/X-00FFFF?style=for-the-badge&logo=x&logoColor=black"></a>
