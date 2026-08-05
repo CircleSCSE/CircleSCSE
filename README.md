@@ -9,7 +9,7 @@
 
 
 <details>
-<summary><b>🛸 Experiment Cycles (View Projects & Links)</b></summary>
+<summary><b>🛸 Cycles (View Projects & Links)</b></summary>
 <div align="center">
 <br/>
 
