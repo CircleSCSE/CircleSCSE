@@ -33,10 +33,16 @@
     <td><a href="https://confused-route-6aa.notion.site/HumanBGM-2e574fa920a78060a7ede23a8cd770e0?pvs=74"><b>[Notion]</b></a> / <a href="https://human-bgm-mvp-qn3m.vercel.app/"><b>[Live Demo]</b></a></td>
   </tr>
   <tr>
-    <td><b>🧵 SNS Marketing 1</b> <b>( 2025.12.10 ~ )</b><br>n8n을 활용한 콘텐츠 마케팅 및 스레드 자동화 워크플로우 구축</td>
+    <td><b>🧵 SNS Marketing Automation 1</b> <b>( 2025-12-10 ~ 2026-05 )</b><br>n8n을 활용한 콘텐츠 마케팅 및 스레드 자동화 워크플로우 구축</td>
     <td><code>n8n Automation</code></td>
     <td><img src="https://img.shields.io/badge/LIVE-FF00FF?style=flat-square&logoColor=white"></td>
     <td><a href="https://github.com/CircleSCSE/thread_marketing_automation_with_n8n"><b>[Github]</b></a></td>
+  </tr>
+  <tr>
+    <td><b>🧶 SNS Marketing Automation 2</b> <b>( 2026.05.26 ~ NOW )</b><br>n8n을 활용한 콘텐츠 마케팅 및 스레드 자동화 워크플로우 구축</td>
+    <td><code>n8n Automation</code></td>
+    <td><img src="https://img.shields.io/badge/LIVE-FF00FF?style=flat-square&logoColor=white"></td>
+    <td><a href="https://github.com/CircleSCSE/thread_marketing_automation_with_n8n"><b>[Github]</b></a>       </td>
   </tr>
 </table>
 
