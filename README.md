@@ -35,7 +35,7 @@
   <tr>
     <td><b>🧵 SNS Marketing Automation 1</b> <b>( 2025-12-10 ~ 2026-05 )</b><br>n8n을 활용한 콘텐츠 마케팅 및 스레드 자동화 워크플로우 구축</td>
     <td><code>n8n Automation</code></td>
-    <td><img src="https://img.shields.io/badge/LIVE-FF00FF?style=flat-square&logoColor=white"></td>
+    <td><code>END</code></td>
     <td><a href="https://github.com/CircleSCSE/thread_marketing_automation_with_n8n"><b>[Github]</b></a></td>
   </tr>
   <tr>
