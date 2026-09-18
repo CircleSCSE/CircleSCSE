@@ -17,3 +17,5 @@
 <br/><br/>
 ### [ How i used FM, AI ]
 <b>1. 🧶 SNS Marketing Automation 2</b> : <td><a href="https://github.com/CircleSCSE/SNS_Marketing_Automation_2/tree/main"><b>[Github]</b></a></td>
+
+<br/>
