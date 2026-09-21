@@ -8,7 +8,7 @@
 ---
 
 ### [ What i learned from experiences ]
-
+<b>1. 🍷 주류소매점에서의 7개월 근무</b> : <td><a href="https://github.com/CircleSCSE/long-term_part-time_job_experience"><b>[Github]</b></a></td>
 
 <br/><br/>
 ### [ About ML ]
