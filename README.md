@@ -7,15 +7,15 @@
 
 ---
 
-### [ What i learned from experiences ]
+## [ What i learned from experiences ]
 <b>1. 🍷 주류소매점에서의 7개월 근무</b> : <td><a href="https://github.com/CircleSCSE/long-term_part-time_job_experience"><b>[Github]</b></a></td>
 
 <br/><br/>
-### [ About ML ]
+## [ About ML ]
 
 
 <br/><br/>
-### [ How i used FM, AI ]
+## [ How i used FM, AI ]
 <b>1. 🧶 SNS Marketing Automation 2</b> : <td><a href="https://github.com/CircleSCSE/SNS_Marketing_Automation_2/tree/main"><b>[Github]</b></a></td>
 
 <br/>
