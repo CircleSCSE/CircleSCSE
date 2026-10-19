@@ -12,7 +12,7 @@
 
 <br/><br/>
 ## [ About ML ]
-<b>1. 🦠 CVlab - 대장균 응집 판별 머신러닝 모델 학습 및 윈도우 어플 개발 </b> [ 키워드 : ML, 논문, 어플 개발, AI 활용, 모호한 문제 파악, 고객과 소통 ] : <td><a href="https://github.com/CircleSCSE/undergraduate_lab_intern"><b>[Github Link]</b></a></td>
+<b>1. 🦠 CVlab - 대장균 응집 판별 머신러닝 모델 학습 및 윈도우 어플 개발 </b> [ 키워드 : ] : <td><a href="https://github.com/CircleSCSE/undergraduate_lab_intern"><b>[Github Link]</b></a></td>
 
 <b>2. 🦠 CVlab - 대장균 응집 판별 머신러닝 모델 학습 및 논문 작성 </b> [ 키워드 :  ] : <td><a href="https://github.com/CircleSCSE/undergraduate_lab_intern"><b>[Github Link]</b></a></td>
 
