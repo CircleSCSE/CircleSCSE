@@ -12,7 +12,7 @@
 
 <br/><br/>
 ## [ About ML ]
-<b>1. 🦠 CVlab - 대장균 응집 판별 머신러닝 모델 학습 및 윈도우 어플 개발 </b> [ 키워드 : ] : <td><a href="https://github.com/CircleSCSE/undergraduate_lab_intern"><b>[Github Link]</b></a></td>
+<b>1. 🦠 CVlab - 대장균 응집 판별 머신러닝 모델 학습 및 윈도우 어플 개발 [ 키워드 : CLI 활용, ML, 연구 인력과의 소통, Tkinter App, 모호한 요구 사항 구체화 ]</b> : <td><a href="https://github.com/CircleSCSE/undergraduate_lab_intern"><b>[Github Link]</b></a></td>
 
 <br/><br/>
 ## [ How i used FM, AI ]
