@@ -14,8 +14,6 @@
 ## [ About ML ]
 <b>1. 🦠 CVlab - 대장균 응집 판별 머신러닝 모델 학습 및 윈도우 어플 개발 </b> [ 키워드 : ] : <td><a href="https://github.com/CircleSCSE/undergraduate_lab_intern"><b>[Github Link]</b></a></td>
 
-<b>2. 🦠 CVlab - 대장균 응집 판별 머신러닝 모델 학습 및 논문 작성 </b> [ 키워드 :  ] : <td><a href="https://github.com/CircleSCSE/undergraduate_lab_intern"><b>[Github Link]</b></a></td>
-
 <br/><br/>
 ## [ How i used FM, AI ]
 <b>1. 🧶 SNS Marketing Automation 2 [ 키워드 : AI 활용, 기획, N8N ]</b> : <td><a href="https://github.com/CircleSCSE/SNS_Marketing_Automation_2/tree/main"><b>[Github Link]</b></a></td>
